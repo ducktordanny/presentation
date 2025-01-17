@@ -1,6 +1,6 @@
 # THE Example
 
-----
+===
 
 ## Cats
 
@@ -10,7 +10,7 @@ This slide is about cats
 - Cats
 - What? Cats?
 
-----
+===
 
 ## Example
 
