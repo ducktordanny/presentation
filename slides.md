@@ -14,6 +14,6 @@ This slide is about cats
 
 ## Example
 
-Btw this should be an example slide for ya
+Btw this should be an example slide for ya!
 
 ![Example image](./assets/image-example.png)
